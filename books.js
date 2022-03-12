@@ -18,10 +18,10 @@ function draw()
 {
     image(img,0,0,420,350);
     fill("#FF0000");
-    text("books",45,35);
+    text("books",95,95);
     noFill();
     stroke("#FF0000");
-    rect(10,60,500,110);
+    rect(10,110,300,120);
 }
 
 

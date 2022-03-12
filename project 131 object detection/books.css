@@ -20,3 +20,12 @@ canvas{
     box-shadow: 10px 10px 10px grey;
     border-radius: 10px;
 }
+
+.link
+{
+    background-color: black;
+    float: right;
+    border-radius: 10px;
+    font-size: 25px;
+    padding: 5px;
+}
